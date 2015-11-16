@@ -1,0 +1,4 @@
+CHANGES in fishtools VERSION 0.0.1
+
+o ilogit transformation functions moved to 'tagsurviv' package
+

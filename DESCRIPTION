@@ -1,0 +1,17 @@
+Package: fishtools
+Type: Package
+Title: Tools for the analysis of fisheries data
+Version: 0.0.1
+Date: 2015-11-17
+Author: Paul Burch
+Maintainer: Paul Burch <Paul.Burch@aad.gov.au>
+Depends:
+    R (>= 3.0.2)
+Suggests:
+    knitr,
+    testthat
+VignetteBuilder: knitr
+Description: Generic tools for the analysis of fisheries data.
+LazyData: yes
+License: GPL-3
+RoxygenNote: 5.0.0
