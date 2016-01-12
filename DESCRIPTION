@@ -8,10 +8,11 @@ Maintainer: Paul Burch <Paul.Burch@aad.gov.au>
 Depends:
     R (>= 3.0.2)
 Suggests:
+    FSAdata,
     knitr,
     testthat
 VignetteBuilder: knitr
 Description: Generic tools for the analysis of fisheries data.
 LazyData: yes
 License: GPL-3
-RoxygenNote: 5.0.0
+RoxygenNote: 5.0.1
